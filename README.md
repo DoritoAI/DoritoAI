@@ -1,6 +1,4 @@
-<br/>
-<img src="https://i.imgur.com/ePNxq4P.png" width="500" />
-<br/>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/riv_22) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SassyRiv) 
 
